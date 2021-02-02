@@ -1,9 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My projects
+Here will be some of my projects from student years.
 
+
+### TEST
 You can use the [editor on GitHub](https://github.com/KostyaLyman/kostyalyman/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### TEST
+
 
 ### Markdown
 

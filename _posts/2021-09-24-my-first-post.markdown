@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first post"
-date:   2021-09-24 01:45:11 -0700
+date:   2021-09-24
 categories: [blog, life]
 tags: words life
 comments: true

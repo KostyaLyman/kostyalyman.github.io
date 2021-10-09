@@ -1,10 +1,6 @@
-name: 'Automatic build'
-on:
-  workflow_dispatch
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+name: 'manual build '
+on: workflow_dispatch
+
 
 jobs:
   continuous-delivery:

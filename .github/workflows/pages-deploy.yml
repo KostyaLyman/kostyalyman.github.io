@@ -1,12 +1,6 @@
-name: 'Automatic build'
-on:
-  push:
-    branches:
-      - gh-pages
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+name: 'manual build '
+on: workflow_dispatch
+
 
 jobs:
   continuous-delivery:

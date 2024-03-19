@@ -187,6 +187,7 @@ compress_html:
 include:
   - _pages
   - _pdfs
+  - _pdfs/cv-lyman.pdf
 exclude:
   - "*.gem"
   - "*.gemspec"

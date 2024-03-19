@@ -11,10 +11,10 @@ permalink: /Curriculum/
 
 [//]: # ()
 [//]: # ()
-[//]: # ([See it here :&#41;]&#40;{{site.url}}/assets/cv_lyman.pdf&#41;)
+[See it here :)]({{ site.url }}/assets/cv_lyman.pdf)
 
 [//]: # ()
 [//]: # ()
-[//]: # (<embed src="{{  url }}/assets/cv_lyman.pdf" width="300" height="575" type="application/pdf">)
+<embed src="{{ site.url }}/assets/cv_lyman.pdf" width="300" height="575" type="application/pdf">
 
 <embed src="https://github.com/KostyaLyman/kostyalyman.github.io/blob/gh-pages-01/_pdfs/cv-lyman.pdf" width="700" height="575" type="application/pdf">

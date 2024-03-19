@@ -13,10 +13,11 @@ permalink: /cv/
 [//]: # ()
 [See it here :)]({{ url }}/assets/cv_lyman.pdf)
 
+
 [See it here :)]({{ site.url }}/_pdfs/cv_lyman.pdf)
 
 [//]: # ()
 [//]: # ()
 <embed src="{{ site.url }}/assets/cv_lyman.pdf" width="300" height="575" type="application/pdf">
 
-<embed src="https://kostyalyman.github.io/assets/cv-lyman.pdf" width="700" height="575" type="application/pdf">
+<embed src="https://github.com/KostyaLyman/kostyalyman.github.io/blob/e7662624e3eafc76e8b19e5b7025080976161710/_pdfs/cv-lyman.pdf" width="700" height="575" type="application/pdf">

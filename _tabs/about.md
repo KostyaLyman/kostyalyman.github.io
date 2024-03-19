@@ -1,12 +1,12 @@
 ---
 title: About
-layout: page
+layout: post
 pin: true
 icon: fas fa-info-circle
 order: 1
 math: true 
 date:   2020-09-24 01:45:11 -0700
-categories: personal
+categories: about
 tags: topology optimization machine-learning
 ---
 

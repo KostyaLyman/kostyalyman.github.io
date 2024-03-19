@@ -1,0 +1,1 @@
+const swconf = { cacheName: 'chirpy-1710846936',resources: [ '/assets/css/jekyll-theme-chirpy.css', '/', '/about/', '/cv/', '/categories/', '/tags/', '/archives/', ],allowHosts: [ 'fonts.googleapis.com', 'fonts.gstatic.com', 'fonts.googleapis.com', 'cdn.jsdelivr.net', 'cdnjs.cloudflare.com' ],denyPaths: [ '/assets/cv-lyman.pdf' ], purge: false };

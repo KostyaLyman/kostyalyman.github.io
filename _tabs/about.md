@@ -1,5 +1,7 @@
 ---
 title: About
+layout: post
+pin: true
 icon: fas fa-info-circle
 order: 1
 math: true 

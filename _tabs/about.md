@@ -1,6 +1,6 @@
 ---
 title: About
-layout: post
+layout: page
 pin: true
 icon: fas fa-info-circle
 order: 1

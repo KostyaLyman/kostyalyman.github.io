@@ -5,6 +5,9 @@ pin: true
 icon: fas fa-info-circle
 order: 1
 math: true 
+date:   2020-09-24 01:45:11 -0700
+categories: personal
+tags: topology optimization machine-learning
 ---
 
 Currently, I am a PhD student at the [Department of Mathematics and Statisitcs](https://www.math.wsu.edu/) of [Washington State University](https://www.wsu.edu/).

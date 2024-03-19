@@ -1,8 +1,8 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 icon: fas fa-person
 order: 2
-permalink: /Curriculum/
+permalink: /cv/
 ---
 
 [//]: # (![Desktop View]&#40;{{site.url}}/cv_lyman.pdf&#41;{: width="100" height="1000" type="application/pdf"})

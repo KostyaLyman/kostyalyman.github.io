@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-      - master
+      - gh-pages-01
     paths-ignore:
       - .gitignore
       - README.md
